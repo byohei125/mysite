@@ -4,8 +4,8 @@ using namespace std;
 
 int main(int argc, char *argv[]) {
 
-	cout << "これはVisual StudioでGitを使う練習" << endl;
-	cout << "2回目のコミット" << endl;
-	cout << "3回目のコミット" << endl;
+	cout << "This is a paractice for Git in Visual Studio" << endl;
+	cout << "2nd commit" << endl;
+	cout << "3rd commit" << endl;
 
 }
